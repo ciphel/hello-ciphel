@@ -1,2 +1,3 @@
 # hello-ciphel
-first repository for checking 
+
+Hi there, this is also my first readme. Just like everyone before.
